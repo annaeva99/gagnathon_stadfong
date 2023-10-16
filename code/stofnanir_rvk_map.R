@@ -10,5 +10,3 @@ leaflet(hnit_rvk) %>% addTiles() %>%
 
 hnit_rvk %>% select(long, lat) %>% as.matrix()
 
-
-### hallo
